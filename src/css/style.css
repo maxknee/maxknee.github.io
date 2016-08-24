@@ -1,0 +1,11 @@
+body {
+    background: yellow;
+}
+
+:local .hello {
+  display: table;
+}
+
+:local(.continue-button) {
+  font-size: 18px;
+}
