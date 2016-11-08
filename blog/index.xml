@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog-rsses on Max Knee</title>
+    <link>https://maxknee.github.io/blog/index.xml</link>
+    <description>Recent content in Blog-rsses on Max Knee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://maxknee.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Starting Something New</title>
+      <link>https://maxknee.github.io/blog/trying-something-new/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxknee.github.io/blog/trying-something-new/</guid>
+      <description>
+
+&lt;h2 id=&#34;trying-something-new&#34;&gt;Trying something new.&lt;/h2&gt;
+
+&lt;p&gt;I think I am going to try to blog or post things I read or agree with.&lt;/p&gt;
+
+&lt;p&gt;I am thinking of also doing some projects on &lt;a href=&#34;https://github.com/maxknee&#34;&gt;Github&lt;/a&gt;, like trying new things or building tools that make my life easier.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
