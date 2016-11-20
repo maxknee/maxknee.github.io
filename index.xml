@@ -10,6 +10,43 @@
     <atom:link href="https://maxknee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Resume</title>
+      <link>https://maxknee.github.io/resume/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxknee.github.io/resume/</guid>
+      <description>
+
+&lt;p&gt;This is still a work in progress. Will be updated
+more detail shortly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://maxknee.com&#34;&gt;https://maxknee.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An experienced software developer.&lt;/p&gt;
+
+&lt;p&gt;Experience:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;April 2016 - Current&lt;/p&gt;
+
+&lt;h4 id=&#34;comcast&#34;&gt;Comcast&lt;/h4&gt;
+
+&lt;p&gt;Front end and dev ops engineer for the Smart Internet product.
+Used &lt;strong&gt;Polymer&lt;/strong&gt; and &lt;strong&gt;Web Components&lt;/strong&gt; and consumed api from backend team.
+Managed CI/CD pipeline with Nightwatch tests in SauceLabs. Deployed static
+site to CloudFoundry.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;September 2016 - April 2016&lt;/p&gt;
+
+&lt;h4 id=&#34;moven&#34;&gt;Moven&lt;/h4&gt;
+
+&lt;p&gt;Systems Engineer for all projects in flight.
+Managed, deployed, and maintained infrastructure in AWS.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Starting Something New</title>
       <link>https://maxknee.github.io/blog/trying-something-new/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
